@@ -2,7 +2,7 @@
 
 ## About Me
 
-👨‍💻 I'm a passionate Front End React Developer with 2.7 years of experience in crafting web applications.
+👨‍💻 I'm a passionate Front End React Developer with 2+ years of experience in crafting web applications.
 
 🎓 I graduated with a degree in Computer Science and have been working on exciting projects ever since.
 
